@@ -1,0 +1,37 @@
+body{
+    background: linear-gradient( #131838 10%,#03040a 90%);
+    overflow: hidden;
+    
+}
+
+body>div{
+border: 2px solid rgb(193, 193, 74);
+    padding: 40px;
+    margin-top: 40px;
+    height: 90%;
+}
+
+h1{
+    color: rgb(193, 193, 74);
+    font-size: 50px;
+    font-family:  Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+hr{
+    border: 2px solid  rgb(193, 193, 74);
+}
+
+#links>a.card{
+    background-color: #060814;
+    border-color:  rgb(193, 193, 74);
+    height: 8em;
+}
+
+#links>a>h2{
+    font-family:  Helvetica, sans-serif;
+    font-weight: bold;
+    color: rgb(193, 193, 74);
+    margin: 10px;
+}
