@@ -37,7 +37,8 @@ body{
 
 i {
     color: #BBBB66 !important;
-    padding-left: 70px;
+    padding-left: 110px;
+    padding-bottom: 5px;
 }
 
 h1{
@@ -59,6 +60,15 @@ hr{
 }
 
 #links>a>h2{
+    font-family:  Helvetica, sans-serif;
+    font-weight: bold;
+    color: #BBBB66;
+    margin: 10px;
+}
+
+.cardstyle{
+    background-color: #060814 !important;
+    border: 2px solid #BBBB66 !important;
     font-family:  Helvetica, sans-serif;
     font-weight: bold;
     color: #BBBB66;
