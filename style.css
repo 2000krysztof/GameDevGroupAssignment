@@ -1,0 +1,76 @@
+body{
+    background: linear-gradient( #131838 10%,#03040a 90%);
+    overflow: hidden;
+    
+}
+
+.ui.container {
+    margin-top: 10px;
+    padding: 40px;
+}
+
+.ui.segment{
+    background: linear-gradient( #111111 10%,#444444 90%);
+    border: 4px solid #BBBB66;
+}
+
+.ui.menu {
+    padding: 0px;
+}
+
+.ui.menu .active.item {
+    background: linear-gradient( #BBBB66 10%,#555544 90%) !important;
+    color: #111111 !important;
+}
+
+.ui.menu .item {
+    padding: 20px;
+    border-left: 2px solid #BBBB66 !important;
+    border-right: 2px solid #BBBB66 !important;
+}
+
+.ui.menu a {
+    color: #BBBB66 !important;
+    font-size: 30px;
+    font-weight: bolder;
+}
+
+i {
+    color: #BBBB66 !important;
+    padding-left: 110px;
+    padding-bottom: 5px;
+}
+
+h1{
+    color: #BBBB66;
+    font-size: 50px;
+    font-family:  Helvetica, sans-serif;
+    font-weight: bold;
+
+}
+
+hr{
+    border: 2px solid #BBBB66;
+}
+
+#links>a.card{
+    background-color: #060814;
+    border: 2px solid #BBBB66;
+    height: 8em;
+}
+
+#links>a>h2{
+    font-family:  Helvetica, sans-serif;
+    font-weight: bold;
+    color: #BBBB66;
+    margin: 10px;
+}
+
+.cardstyle{
+    background-color: #060814 !important;
+    border: 2px solid #BBBB66 !important;
+    font-family:  Helvetica, sans-serif;
+    font-weight: bold;
+    color: #BBBB66;
+    margin: 10px;
+}
