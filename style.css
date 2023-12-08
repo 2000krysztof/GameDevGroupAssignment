@@ -46,6 +46,12 @@ h1{
     font-size: 50px;
     font-family:  Helvetica, sans-serif;
     font-weight: bold;
+}
+h2{
+    color: #BBBB66;
+    font-size: 30px;
+    font-family:  Helvetica, sans-serif;
+    font-weight: bold;
 
 }
 
@@ -73,4 +79,12 @@ hr{
     font-weight: bold;
     color: #BBBB66;
     margin: 10px;
+}
+
+.story {
+    color: #BBBB66;
+    overflow-y: auto;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+    height: 30em;
 }
